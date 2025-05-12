@@ -78,7 +78,7 @@ If you face issues:
 ## 📜 License
 This project is licensed under the MIT License.
 
-## Demo Link : https://streamlit.io/cloud
+## Demo Link : https://prediction-of-disease-outbreaks-5zyq5yqqjvcp9kuukipdny.streamlit.app/
 
 ## 🌟 Show Some Love
 If you like this project, give it a ⭐ on GitHub! ❤️
